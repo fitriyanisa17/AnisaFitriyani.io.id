@@ -1,0 +1,33 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #add8e6;
+}
+#projects {
+  background-color: #add8e6;
+}
+section {
+  padding-top: 5rem;
+}
+
+.jumbotron2 {
+  padding-top: 7rem;
+  background-color: #292929;
+  background-image: url('img/ROG1.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  color: lightblue;
+}
+#projects2 {
+  background-color: #292929;
+}
+#projects2 img {
+  height: 250px;
+}
+#projects2 .card-body {
+  height: 100px;
+}
+#projects2 a {
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+}
